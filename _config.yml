@@ -1,21 +1,21 @@
 # Site/SEO settings
-email: eungggggg@gmail.com
+email: purii0218@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Eunji Jeong
+name: Dami Kim
 title: Portfolio
 description: >
-  Eunji Jeong - a Product Designer's Portfolio
-url: https://eungggggg.github.io
+  Dami Kim - a Product Designer's Portfolio
+url: https://daisykimm.github.io
 twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
   # - name: twitter
   #   url: https://twitter.com/eungggggg
   - name: instagram
-    url: https://www.instagram.com/eungggggg/
+    url: https://www.instagram.com/dami.kim/
   - name: dribbble
     url: https://dribbble.com/eungggg
   - name: behance
@@ -23,7 +23,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/eungggggg/
   - name: github
-    url: https://github.com/eungggggg
+    url: https://github.com/daisykimm
   # - name: codepen
   #   url: https://codepen.io/eungggggg/
 
