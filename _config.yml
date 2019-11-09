@@ -5,23 +5,23 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Dami Kim
-title: Portfolio
+title: Daisy Portfolio
 description: >
-  Dami Kim - a Product Designer's Portfolio
+  Dami Kim - a Web Designer's Portfolio
 url: https://daisykimm.github.io
-twitter_username: eungggggg
-default_img: /assets/images/seo.jpg
+# twitter_username: eungggggg
+default_img: /assets/images/seo2.jpg
 social:
   # - name: twitter
   #   url: https://twitter.com/eungggggg
   - name: instagram
     url: https://www.instagram.com/dami.kim/
-  - name: dribbble
-    url: https://dribbble.com/eungggg
-  - name: behance
-    url: https://www.behance.net/eungggggg
-  - name: linkedin
-    url: https://www.linkedin.com/in/eungggggg/
+  # - name: dribbble
+    # url: https://dribbble.com/eungggg
+  # - name: behance
+    # url: https://www.behance.net/eungggggg
+  # - name: linkedin
+    # url: https://www.linkedin.com/in/eungggggg/
   - name: github
     url: https://github.com/daisykimm
   # - name: codepen
@@ -40,7 +40,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Eunji Jeong
+  - name: Dami Kim
     # bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     # url: http://thomasvaeth.com
 

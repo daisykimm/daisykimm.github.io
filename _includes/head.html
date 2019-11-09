@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Eunji Jeong</title>
+<title>{{ site.name }}</title>
 <meta name="description" content="{{ site.description }}">
 
 <meta itemprop="name" content="{{ site.name }}">
@@ -49,6 +49,18 @@
     ga('send', 'pageview');
   </script>
 {% endif %}
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151890448-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151890448-1');
+</script>
+
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
